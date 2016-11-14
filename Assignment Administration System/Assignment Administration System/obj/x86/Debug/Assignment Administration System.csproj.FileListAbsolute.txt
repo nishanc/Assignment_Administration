@@ -1,0 +1,120 @@
+E:\New folder\Assignment Administration System\Assignment Administration System\bin\x86\Debug\Assignment Administration System.exe.config
+E:\New folder\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+E:\New folder\Assignment Administration System\Assignment Administration System\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\New folder\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Assignment Administration System.csproj.ResolveComReference.cache
+E:\New folder\Assignment Administration System\Assignment Administration System\bin\x86\Debug\Assignment Administration System.exe
+E:\New folder\Assignment Administration System\Assignment Administration System\bin\x86\Debug\Assignment Administration System.pdb
+E:\New folder\Assignment Administration System\Assignment Administration System\bin\x86\Debug\Interop.ShockwaveFlashObjects.dll
+E:\New folder\Assignment Administration System\Assignment Administration System\bin\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\New folder\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Assignment Administration System.csprojResolveAssemblyReference.cache
+E:\New folder\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Assignment_Administration_System.Form1.resources
+E:\New folder\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Assignment_Administration_System.Form2.resources
+E:\New folder\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Assignment_Administration_System.Properties.Resources.resources
+E:\New folder\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Assignment Administration System.csproj.GenerateResource.Cache
+E:\New folder\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Assignment Administration System.exe
+E:\New folder\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Assignment Administration System.pdb
+E:\New folder\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Assignment Administration System.exe.manifest
+E:\New folder\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Assignment Administration System.TrustInfo.xml
+E:\New folder\Assignment Administration System\Assignment Administration System\bin\x86\Debug\Assignment Administration System.exe.manifest
+E:\New folder\Assignment Administration System\Assignment Administration System\bin\x86\Debug\Assignment Administration System.application
+E:\New folder\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Assignment Administration System.application
+D:\Assignment Administration System\Assignment Administration System\Assignment Administration System\bin\x86\Debug\Assignment Administration System.exe.config
+D:\Assignment Administration System\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Assignment Administration System\Assignment Administration System\Assignment Administration System\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Assignment Administration System\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Assignment Administration System.csproj.ResolveComReference.cache
+D:\Assignment Administration System\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Assignment Administration System.exe
+D:\Assignment Administration System\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Assignment Administration System.pdb
+D:\Assignment Administration System\Assignment Administration System\Assignment Administration System\bin\x86\Debug\Assignment Administration System.exe.manifest
+D:\Assignment Administration System\Assignment Administration System\Assignment Administration System\bin\x86\Debug\Assignment Administration System.application
+D:\Assignment Administration System\Assignment Administration System\Assignment Administration System\bin\x86\Debug\Assignment Administration System.exe
+D:\Assignment Administration System\Assignment Administration System\Assignment Administration System\bin\x86\Debug\Assignment Administration System.pdb
+D:\Assignment Administration System\Assignment Administration System\Assignment Administration System\bin\x86\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Assignment Administration System\Assignment Administration System\Assignment Administration System\bin\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Assignment Administration System\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Assignment Administration System.csprojResolveAssemblyReference.cache
+D:\Assignment Administration System\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Assignment_Administration_System.Form1.resources
+D:\Assignment Administration System\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Assignment_Administration_System.Form2.resources
+D:\Assignment Administration System\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Assignment_Administration_System.Properties.Resources.resources
+D:\Assignment Administration System\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Assignment Administration System.csproj.GenerateResource.Cache
+D:\Assignment Administration System\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Assignment Administration System.TrustInfo.xml
+D:\Assignment Administration System\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Assignment Administration System.exe.manifest
+D:\Assignment Administration System\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Assignment Administration System.application
+D:\xampp\Assign\Assignment Administration System\Assignment Administration System\bin\x86\Debug\Assignment Administration System.exe.config
+D:\xampp\Assign\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+D:\xampp\Assign\Assignment Administration System\Assignment Administration System\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\xampp\Assign\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Assignment Administration System.csproj.ResolveComReference.cache
+D:\xampp\Assign\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Assignment Administration System.exe
+D:\xampp\Assign\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Assignment Administration System.pdb
+D:\xampp\Assign\Assignment Administration System\Assignment Administration System\bin\x86\Debug\Assignment Administration System.exe.manifest
+D:\xampp\Assign\Assignment Administration System\Assignment Administration System\bin\x86\Debug\Assignment Administration System.application
+D:\xampp\Assign\Assignment Administration System\Assignment Administration System\bin\x86\Debug\Assignment Administration System.exe
+D:\xampp\Assign\Assignment Administration System\Assignment Administration System\bin\x86\Debug\Assignment Administration System.pdb
+D:\xampp\Assign\Assignment Administration System\Assignment Administration System\bin\x86\Debug\Interop.ShockwaveFlashObjects.dll
+D:\xampp\Assign\Assignment Administration System\Assignment Administration System\bin\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\xampp\Assign\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Assignment Administration System.csprojResolveAssemblyReference.cache
+D:\xampp\Assign\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Assignment_Administration_System.Form1.resources
+D:\xampp\Assign\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Assignment_Administration_System.Form2.resources
+D:\xampp\Assign\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Assignment_Administration_System.Properties.Resources.resources
+D:\xampp\Assign\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Assignment Administration System.csproj.GenerateResource.Cache
+D:\xampp\Assign\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Assignment Administration System.TrustInfo.xml
+D:\xampp\Assign\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Assignment Administration System.exe.manifest
+D:\xampp\Assign\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Assignment Administration System.application
+C:\Users\Asus\Desktop\Assignment Administration System\Assignment Administration System\bin\x86\Debug\Assignment Administration System.exe.config
+C:\Users\Asus\Desktop\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Asus\Desktop\Assignment Administration System\Assignment Administration System\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Asus\Desktop\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Assignment Administration System.csproj.ResolveComReference.cache
+C:\Users\Asus\Desktop\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Assignment Administration System.exe
+C:\Users\Asus\Desktop\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Assignment Administration System.pdb
+C:\Users\Asus\Desktop\Assignment Administration System\Assignment Administration System\bin\x86\Debug\Assignment Administration System.exe.manifest
+C:\Users\Asus\Desktop\Assignment Administration System\Assignment Administration System\bin\x86\Debug\Assignment Administration System.application
+C:\Users\Asus\Desktop\Assignment Administration System\Assignment Administration System\bin\x86\Debug\Assignment Administration System.exe
+C:\Users\Asus\Desktop\Assignment Administration System\Assignment Administration System\bin\x86\Debug\Assignment Administration System.pdb
+C:\Users\Asus\Desktop\Assignment Administration System\Assignment Administration System\bin\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Asus\Desktop\Assignment Administration System\Assignment Administration System\bin\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Asus\Desktop\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Assignment Administration System.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Assignment_Administration_System.Form1.resources
+C:\Users\Asus\Desktop\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Assignment_Administration_System.Form2.resources
+C:\Users\Asus\Desktop\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Assignment_Administration_System.Properties.Resources.resources
+C:\Users\Asus\Desktop\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Assignment Administration System.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Assignment Administration System.TrustInfo.xml
+C:\Users\Asus\Desktop\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Assignment Administration System.exe.manifest
+C:\Users\Asus\Desktop\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Assignment Administration System.application
+D:\Assignment Administration System\Assignment Administration System\bin\x86\Debug\Assignment Administration System.exe.config
+D:\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Assignment Administration System\Assignment Administration System\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Assignment Administration System.csproj.ResolveComReference.cache
+D:\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Assignment Administration System.exe
+D:\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Assignment Administration System.pdb
+D:\Assignment Administration System\Assignment Administration System\bin\x86\Debug\Assignment Administration System.exe.manifest
+D:\Assignment Administration System\Assignment Administration System\bin\x86\Debug\Assignment Administration System.application
+D:\Assignment Administration System\Assignment Administration System\bin\x86\Debug\Assignment Administration System.exe
+D:\Assignment Administration System\Assignment Administration System\bin\x86\Debug\Assignment Administration System.pdb
+D:\Assignment Administration System\Assignment Administration System\bin\x86\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Assignment Administration System\Assignment Administration System\bin\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Assignment Administration System.csprojResolveAssemblyReference.cache
+D:\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Assignment_Administration_System.Form1.resources
+D:\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Assignment_Administration_System.Form2.resources
+D:\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Assignment_Administration_System.Properties.Resources.resources
+D:\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Assignment Administration System.csproj.GenerateResource.Cache
+D:\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Assignment Administration System.TrustInfo.xml
+D:\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Assignment Administration System.exe.manifest
+D:\Assignment Administration System\Assignment Administration System\obj\x86\Debug\Assignment Administration System.application
+D:\Assignment Administration System_Extended\Assignment Administration System_Extended\Assignment Administration System\bin\x86\Debug\Assignment Administration System.exe.config
+D:\Assignment Administration System_Extended\Assignment Administration System_Extended\Assignment Administration System\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Assignment Administration System_Extended\Assignment Administration System_Extended\Assignment Administration System\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Assignment Administration System_Extended\Assignment Administration System_Extended\Assignment Administration System\obj\x86\Debug\Assignment Administration System.csproj.ResolveComReference.cache
+D:\Assignment Administration System_Extended\Assignment Administration System_Extended\Assignment Administration System\obj\x86\Debug\Assignment Administration System.exe
+D:\Assignment Administration System_Extended\Assignment Administration System_Extended\Assignment Administration System\obj\x86\Debug\Assignment Administration System.pdb
+D:\Assignment Administration System_Extended\Assignment Administration System_Extended\Assignment Administration System\bin\x86\Debug\Assignment Administration System.exe.manifest
+D:\Assignment Administration System_Extended\Assignment Administration System_Extended\Assignment Administration System\bin\x86\Debug\Assignment Administration System.application
+D:\Assignment Administration System_Extended\Assignment Administration System_Extended\Assignment Administration System\bin\x86\Debug\Assignment Administration System.exe
+D:\Assignment Administration System_Extended\Assignment Administration System_Extended\Assignment Administration System\bin\x86\Debug\Assignment Administration System.pdb
+D:\Assignment Administration System_Extended\Assignment Administration System_Extended\Assignment Administration System\bin\x86\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Assignment Administration System_Extended\Assignment Administration System_Extended\Assignment Administration System\bin\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Assignment Administration System_Extended\Assignment Administration System_Extended\Assignment Administration System\obj\x86\Debug\Assignment Administration System.csprojResolveAssemblyReference.cache
+D:\Assignment Administration System_Extended\Assignment Administration System_Extended\Assignment Administration System\obj\x86\Debug\Assignment_Administration_System.Form1.resources
+D:\Assignment Administration System_Extended\Assignment Administration System_Extended\Assignment Administration System\obj\x86\Debug\Assignment_Administration_System.Form2.resources
+D:\Assignment Administration System_Extended\Assignment Administration System_Extended\Assignment Administration System\obj\x86\Debug\Assignment_Administration_System.Properties.Resources.resources
+D:\Assignment Administration System_Extended\Assignment Administration System_Extended\Assignment Administration System\obj\x86\Debug\Assignment Administration System.csproj.GenerateResource.Cache
+D:\Assignment Administration System_Extended\Assignment Administration System_Extended\Assignment Administration System\obj\x86\Debug\Assignment Administration System.TrustInfo.xml
+D:\Assignment Administration System_Extended\Assignment Administration System_Extended\Assignment Administration System\obj\x86\Debug\Assignment Administration System.exe.manifest
+D:\Assignment Administration System_Extended\Assignment Administration System_Extended\Assignment Administration System\obj\x86\Debug\Assignment Administration System.application

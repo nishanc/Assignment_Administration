@@ -1,0 +1,1 @@
+D:/xampp/mysql/bin/mysql –u root –p assignments > D:/AAS_AppData/assignments.sql
